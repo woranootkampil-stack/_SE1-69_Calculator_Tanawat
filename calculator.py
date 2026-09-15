@@ -1,4 +1,4 @@
-
+#### Version 1.0 by Tanawat ####
 def add(x,y):
     return x + y
 def substract(x,y):
